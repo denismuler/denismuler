@@ -48,15 +48,12 @@ iOS / Swift Engineer · 5+ years · B2C apps from concept to App Store
 
 ### 🏆 Codewars
 
-<!-- Заміни YOUR_CODEWARS_USERNAME на свій нікнейм -->
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/denysmelnyk)
 
-<!-- Офіційний динамічний бейдж Codewars (ранг/kyu оновлюється автоматично): -->
-[![Codewars rank](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)
+[![Codewars rank](https://www.codewars.com/users/denysmelnyk/badges/large)](https://www.codewars.com/users/denysmelnyk)
 
-<!-- Динамічні бейджі з shields.io (за бажанням): -->
-![Codewars rank](https://img.shields.io/badge/dynamic/json?url=https://www.codewars.com/api/v1/users/YOUR_CODEWARS_USERNAME&query=$.ranks.overall.name&label=Codewars%20rank&style=for-the-badge&logo=codewars&color=B1361E)
-![Codewars honor](https://img.shields.io/badge/dynamic/json?url=https://www.codewars.com/api/v1/users/YOUR_CODEWARS_USERNAME&query=$.honor&label=Honor&style=for-the-badge&logo=codewars&color=B1361E)
+![Codewars rank](https://img.shields.io/badge/dynamic/json?url=https://www.codewars.com/api/v1/users/denysmelnyk&query=$.ranks.overall.name&label=Codewars%20rank&style=for-the-badge&logo=codewars&color=B1361E)
+![Codewars honor](https://img.shields.io/badge/dynamic/json?url=https://www.codewars.com/api/v1/users/denysmelnyk&query=$.honor&label=Honor&style=for-the-badge&logo=codewars&color=B1361E)
 
 ### 📫 Contact
 
